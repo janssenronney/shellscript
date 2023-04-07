@@ -1,6 +1,4 @@
 #!/bin/bash
 clear;
-
-
-echo "hello world";
+echo "hello janssen world";
 exit;
